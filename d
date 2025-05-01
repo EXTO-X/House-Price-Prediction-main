@@ -1,0 +1,6 @@
+// ... existing code ...
+streamlit>=1.28.0
+matplotlib
+seaborn
+pillow>=10.0.0
+// ... existing code ...
